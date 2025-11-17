@@ -18,7 +18,7 @@
 - Next word prediction model based on GPT2 paper
 - Deployment on GPU cluster
 
-### [Transformer Encoder Model](https://github.com/shlbatra/GPT2/blob/main/README.md)
+### [Transformer Encoder Model](https://github.com/shlbatra/BERT/blob/main/README.md)
 - Transformer Encoder Model built from Scratch
 - Embedding from Encoder Model used for downstream Topic Classification problem
 
