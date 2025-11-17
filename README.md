@@ -10,7 +10,7 @@
 - Integrated Google Speech to Text
 - Achieved 85%+ accuracy
 
-### [End to end ML Ops pipeline](https://github.com/shlbatra/Machine-learning-Ops-Deployment-Inference/blob/main/Readme.md)
+### [End to end ML Ops pipeline & Real time Inference](https://github.com/shlbatra/Machine-learning-Ops-Deployment-Inference/blob/main/Readme.md)
 - End-to-end ML model training and deployment 
 - Batch and streaming inference
 
